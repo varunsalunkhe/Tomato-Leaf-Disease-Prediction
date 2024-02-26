@@ -1,7 +1,0 @@
-Flask==2.2.2
-tensorflow==2.15.0
-Werkzeug==2.2.3
-numpy==1.24.3
-traceback
-datetime
-os
